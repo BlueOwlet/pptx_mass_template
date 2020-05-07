@@ -9,7 +9,8 @@ import openpyxl as xl
 levels={
 
     'INTRO':'INTROTEMPLATE.pptx',
-    'BOOK1':'BOOK1TEMPLATE.pptx'
+    'BOOK1':'BOOK1TEMPLATE.pptx',
+    'ADV':'ADVTEMPLATE.pptx',
 
 }
 
